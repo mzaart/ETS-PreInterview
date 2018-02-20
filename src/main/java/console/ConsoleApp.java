@@ -5,7 +5,7 @@ import deck.CardDeck;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * This class handles interacting with the user and running the point.
+ * This class handles interacting with the user.
  */
 public class ConsoleApp {
 
