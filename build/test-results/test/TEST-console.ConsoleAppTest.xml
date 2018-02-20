@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="console.ConsoleAppTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-02-20T14:42:35" hostname="mouhammed-S550CB" time="0.013">
+  <properties/>
+  <testcase name="emptyDeck" classname="console.ConsoleAppTest" time="0.008"/>
+  <testcase name="shuffleCommand" classname="console.ConsoleAppTest" time="0.001"/>
+  <testcase name="NullConstructorParams" classname="console.ConsoleAppTest" time="0.0"/>
+  <testcase name="restartCommand" classname="console.ConsoleAppTest" time="0.0"/>
+  <testcase name="drawCommand" classname="console.ConsoleAppTest" time="0.0"/>
+  <testcase name="greet" classname="console.ConsoleAppTest" time="0.001"/>
+  <testcase name="invalidCommand" classname="console.ConsoleAppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

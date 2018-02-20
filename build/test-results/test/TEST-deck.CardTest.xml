@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="deck.CardTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-02-20T14:42:35" hostname="mouhammed-S550CB" time="0.024">
+  <properties/>
+  <testcase name="equalsFails" classname="deck.CardTest" time="0.001"/>
+  <testcase name="getRank" classname="deck.CardTest" time="0.001"/>
+  <testcase name="getSuit" classname="deck.CardTest" time="0.001"/>
+  <testcase name="constructorMissingRank" classname="deck.CardTest" time="0.007"/>
+  <testcase name="constructorMissingSuit" classname="deck.CardTest" time="0.001"/>
+  <testcase name="toStringTest" classname="deck.CardTest" time="0.001"/>
+  <testcase name="constructorMissingAllParams" classname="deck.CardTest" time="0.001"/>
+  <testcase name="constructorHasValidParams" classname="deck.CardTest" time="0.002"/>
+  <testcase name="equalsSuccess" classname="deck.CardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

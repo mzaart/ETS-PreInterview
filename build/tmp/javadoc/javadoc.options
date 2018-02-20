@@ -1,0 +1,11 @@
+-classpath '/home/mouhammed/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/15.0/d40ab99147584cf6cfb5245be67b3fee2c7220f9/annotations-15.0.jar'
+-d '/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/build/docs/javadoc'
+-doctitle 'Cards 1.0 API'
+-quiet 
+-windowtitle 'Cards 1.0 API'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/App.java'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/deck/CardDeck.java'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/deck/Card.java'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/console/ConsoleApp.java'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/console/commands/CommandsManagerStdIn.java'
+'/home/mouhammed/MZ/Coding/internships/summer 2018/ets/EtsPre2/src/main/java/console/commands/CommandsManager.java'
